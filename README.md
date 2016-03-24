@@ -13,3 +13,5 @@
 ## LICENCE
 
 [Rishi Giri](http://rishigiri.com)
+
+Yeah! MIT __LOL__
