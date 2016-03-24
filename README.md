@@ -10,7 +10,7 @@
 
 > Non programming stuffs, as, I already have a programming related blog.
 
-## LICENCE
+## LICENSE
 
 [Rishi Giri](http://rishigiri.com)
 
